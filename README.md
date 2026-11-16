@@ -48,7 +48,7 @@ your area, gives a reason from your evidence, and states the strongest argument 
 ## How to fill it in
 
 1. Open `briefing.md` and read it end to end before you start writing.
-2. Keep every `##` heading and every `- Label:` line exactly as they are. Write your answers after
+2. Keep each `##` heading and each `- Label:` line exactly as they are. Write your answers after
    them. The course website reads this file directly, so a deleted heading is a missing section on
    your published briefing.
 3. Put your image in this folder and name it `figure.png`, `figure.jpg`, or `figure.svg`.
@@ -63,7 +63,7 @@ Three points, split three ways.
 
 | Component | Points | Notes |
 | :--- | :--- | :--- |
-| The written brief | 1 | Every field answered specifically. All three developments have a link, a date and a number. Your visual is present and attributed. |
+| The written brief | 1 | Each field answered specifically. All three developments have a link, a date and a number. Your visual is present and attributed. |
 | The analysis | 1 | The change since September is supported by your numbers, the course idea is applied correctly to your third development, and your position has a reason from your evidence and a fair statement of the other side. |
 | The oral briefing | 1 | Graded individually on clarity. Each team has three to five minutes, and time to answer a question afterwards. |
 
@@ -77,5 +77,5 @@ Claude to draft this README and `briefing.md`; `sources.md` is the one from Brie
 Allowed, disclosed, and your responsibility. Full policy: **https://areweagentsyet.com/ai/**
 
 A chat model asked what happened recently in your area will give a fluent answer with dates attached,
-and some of it will be invented. **Every number in your brief needs to appear on a page behind a link
+and some of it will be invented. **Each number in your brief needs to appear on a page behind a link
 that someone in your group opened.**

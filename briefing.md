@@ -3,13 +3,13 @@
 Fill this in as a group. Keep it short: this is a three to five minute briefing, not a paper. Your
 completed briefing gets published on the course website.
 
-**Hand it in by leaving this file here, named `briefing.md`, in this repository.** Keep every `##`
-heading and every `- Label:` line exactly as they are and write your answers after them. The website
+**Hand it in by leaving this file here, named `briefing.md`, in this repository.** Keep each `##`
+heading and each `- Label:` line exactly as they are and write your answers after them. The website
 reads this file directly, so a heading you delete is a section that does not appear.
 
 **This round you return to one of the five areas from Briefing 1**, find out how it changed since
 September, and ask one question of it: what changes when AI stops answering people and starts acting
-for them? `sources.md` lists reputable places to start for every area.
+for them? `sources.md` lists reputable places to start for each area.
 
 ---
 
@@ -33,7 +33,7 @@ for them? `sources.md` lists reputable places to start for every area.
 
 ## Then and now
 
-Three developments. Every one needs a link you opened yourself, a date, and **a number**.
+Three developments. Each one needs a link you opened yourself, a date, and **a number**.
 
 **1. Where your area stood in September**
 - Headline:
