@@ -23,20 +23,20 @@ Briefing 1, one group per area, chosen in class:
 5. **Rules and accountability**: regulation, litigation, liability
 
 Your group does not need to have had this area before. The Briefing 1 pages at
-**areweagentsyet.com/briefings/** show what the class found in September, and are a place to start
-looking for where your area stood then.
+**areweagentsyet.com/briefings/** show what the class found at the start of the semester, and they are
+a good place to see where your area stood then.
 
 ## The question this round
 
-This term started with agents that searched a map and ended with agents that read email, call tools,
-remember, and negotiate. This round asks what changes in the world when AI systems **act for people**
+This semester started with agents that searched a map and ended with agents that read email, call
+tools, remember, and negotiate. This round asks what changes in the world when AI systems **act for people**
 instead of answering them: book, buy, file, hire, flag, trade or send something on a person's behalf.
 Each group answers it from its own area, so the class ends with five views of the same question.
 
-## The three things that make it a briefing rather than a summary
+## What your briefing needs
 
-**1. Then and now, each with a number.** One development from August or September 2026, one from
-October to December, and one about an AI agent acting for people in your area. If you can, make the
+**1. Then and now, each with a number.** One development from the start of the semester, one from
+the last few weeks, and one about an AI agent acting for people in your area. If you can, make the
 first two the same kind of number, so the class can see the change.
 
 **2. A course idea applied.** "When an agent acts" asks you to explain your third development with one
@@ -64,7 +64,7 @@ Three points, split three ways.
 | Component | Points | Notes |
 | :--- | :--- | :--- |
 | The written brief | 1 | Each field answered specifically. All three developments have a link, a date and a number. Your visual is present and attributed. |
-| The analysis | 1 | The change since September is supported by your numbers, the course idea is applied correctly to your third development, and your position has a reason from your evidence and a fair statement of the other side. |
+| The analysis | 1 | The change since the start of the semester is supported by your numbers, the course idea is applied correctly to your third development, and your position has a reason from your evidence and a fair statement of the other side. |
 | The oral briefing | 1 | Graded individually on clarity. Each team has three to five minutes, and time to answer a question afterwards. |
 
 ## How this assignment was built
@@ -74,7 +74,8 @@ Claude to draft this README and `briefing.md`; `sources.md` is the one from Brie
 
 ## Using AI on this
 
-Allowed, disclosed, and your responsibility. Full policy: **https://areweagentsyet.com/ai/**
+You may use AI on this briefing, as long as you disclose it, and you are responsible for what it
+produces. Full policy: **https://areweagentsyet.com/ai/**
 
 A chat model asked what happened recently in your area will give a fluent answer with dates attached,
 and some of it will be invented. **Each number in your brief needs to appear on a page behind a link
